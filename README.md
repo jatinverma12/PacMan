@@ -54,6 +54,6 @@ I personally add the name of the license and provide a link to it like below. --
 
 Let's make it an image because by now you have realised that multimedia in images == cool(*please notice the subtle programming joke). -->
 
-Leave a star in GitHub, give a clap in Medium and share this guide if you found this helpful.
+Leave a star in GitHub,if you found this helpful.
 
 
