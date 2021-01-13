@@ -3,7 +3,7 @@
 ## DEMO-PREVIEW 
 Game Started  | Game Over
 :-------------------------:|:-------------------------:
-![](https://github.com/jatinverma12/STUDENT_IDENTITY_CHECK_DIP_PROJECT/blob/master/OutputImage/dilated.png)  |  ![](https://github.com/jatinverma12/STUDENT_IDENTITY_CHECK_DIP_PROJECT/blob/master/OutputImage/segmented.png).png)
+![](https://github.com/jatinverma12/PacMan/blob/main/Demo/1.png)  |  ![](https://github.com/jatinverma12/PacMan/blob/main/Demo/2.png)
 
 
 # Table of contents
